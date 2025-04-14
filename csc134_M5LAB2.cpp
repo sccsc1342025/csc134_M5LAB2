@@ -17,7 +17,7 @@ int main()
           
    length = getLength();
    
-   width = getWidth()
+   width = getWidth();
    
    area = getArea(length, width);
    
